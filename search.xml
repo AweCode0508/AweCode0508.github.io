@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="2021/05/09/AweCode/"/>
+      <url>2021/05/09/AweCode/</url>
+      
+        <content type="html"><![CDATA[<h1 id="AweCode"><a href="#AweCode" class="headerlink" title="AweCode"></a><center>AweCode</center></h1><h3 id="未来计划："><a href="#未来计划：" class="headerlink" title="未来计划："></a>未来计划：</h3><h5 id="emsp-从三方面进行招人：软件，硬件，运营，其他的也可以（不过应该是后面的事情了）"><a href="#emsp-从三方面进行招人：软件，硬件，运营，其他的也可以（不过应该是后面的事情了）" class="headerlink" title="&emsp;从三方面进行招人：软件，硬件，运营，其他的也可以（不过应该是后面的事情了）"></a>&emsp;从三方面进行招人：软件，硬件，运营，其他的也可以（不过应该是后面的事情了）</h5><h3 id="近期计划："><a href="#近期计划：" class="headerlink" title="近期计划："></a>近期计划：</h3><font size=4> 1.将博客搭建起来，应该是Hexo部署到Github上  <p> 2.确定公众号的应用<br> 3.招收对运营有兴趣的同学<br> 4.CSDN，知乎，GitHub，简书这些平台账号的注册<br> </font ></p><h3 id="长期计划："><a href="#长期计划：" class="headerlink" title="长期计划："></a>长期计划：</h3><font size = 4>1.TFR写好Markdown的教程，LaTex的教程  <p>2.wk的话给我确定一个方向<br>3.我写好总计划，确定所有的东西<br>4.我应该打算写Python和Java分成两部分：简单和特性<br>5.各位学习公众号的运营，升级各位第一个技能点<br></font></p><h5 id="emsp"><a href="#emsp" class="headerlink" title="&emsp;"></a>&emsp;</h5><h3 id="编写要求："><a href="#编写要求：" class="headerlink" title="编写要求："></a>编写要求：</h3><h5 id="emsp-AweCode所有推文都用Markdown进行书写，建议使用Vscode进行配置，具体方法和Markdown的使用方法会作为第一篇推文发出。"><a href="#emsp-AweCode所有推文都用Markdown进行书写，建议使用Vscode进行配置，具体方法和Markdown的使用方法会作为第一篇推文发出。" class="headerlink" title="&emsp;AweCode所有推文都用Markdown进行书写，建议使用Vscode进行配置，具体方法和Markdown的使用方法会作为第一篇推文发出。"></a>&emsp;AweCode所有推文都用Markdown进行书写，建议使用Vscode进行配置，具体方法和Markdown的使用方法会作为第一篇推文发出。</h5>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/05/09/hello-world/"/>
+      <url>2021/05/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
